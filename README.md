@@ -1,6 +1,6 @@
-# ClipAngel Linux — preview 4
+# ClipAngel Linux clone
 
-An **unofficial, source-informed Linux reimplementation targeting ClipAngel 2.23**, based on the supplied Windows source snapshot `a8c60d32d05197fa01469a9e4ba6b189c180d069`.
+An **unofficial, source-informed Linux reimplementation targeting ClipAngel 2.23**.
 
 This is an actual desktop application and Debian package, not a screenshot mock-up, web wrapper, or Wine launcher. It recreates the classic two-pane interface, original artwork, menu structure, clipboard history and many local workflows. **It is not a feature-complete or pixel-perfect reproduction of the Windows application.** Read `docs/FEATURE-PARITY.md` before migrating.
 
