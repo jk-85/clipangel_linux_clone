@@ -2,6 +2,9 @@
 
 An **unofficial, source-informed Linux reimplementation targeting ClipAngel 2.23**.
 
+<img width="100%" alt="screenshot" src="https://github.com/user-attachments/assets/ef6d018f-02dd-426e-8b3a-c4391cac7421" />
+<img width="100%" alt="screenshot-dark" src="https://github.com/user-attachments/assets/f9843797-4f1a-4f81-b87b-d15d07b9b534" />
+
 This is an actual desktop application and Debian package, not a screenshot mock-up, web wrapper, or Wine launcher. It recreates the classic two-pane interface, original artwork, menu structure, clipboard history and many local workflows. **It is not a feature-complete or pixel-perfect reproduction of the Windows application.** Read `docs/FEATURE-PARITY.md` before migrating.
 
 ## Install
