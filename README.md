@@ -13,7 +13,7 @@ The supplied binary is for **amd64 / x86-64**. It targets **Linux Mint 21.2, Ubu
 
 ```sh
 sudo apt update
-sudo apt install ./clipangel_2.23.0~linux4_amd64.deb
+sudo apt install ./clipangel_2.23.0~linux5_amd64.deb
 clipangel
 ```
 
@@ -43,7 +43,7 @@ normal Ubuntu component and retry (these commands are not for Debian):
 ```sh
 sudo add-apt-repository universe
 sudo apt update
-sudo apt install ./clipangel_2.23.0~linux4_amd64.deb
+sudo apt install ./clipangel_2.23.0~linux5_amd64.deb
 ```
 
 For unresolved dependencies, collect:
@@ -80,14 +80,14 @@ unconfigured older package after a failed `dpkg -i`, use the new package:
 ```sh
 clipangel --quit
 sudo apt update
-sudo apt --fix-broken install ./clipangel_2.23.0~linux4_amd64.deb
+sudo apt --fix-broken install ./clipangel_2.23.0~linux5_amd64.deb
 clipangel
 ```
 
 No uninstall or data reset is needed. History, favorites, theme, paste preferences
 and the user's optional login-startup entry are retained. This is not a fully
 self-contained/offline installer; the other system dependencies are unchanged.
-See `docs/LINUX4-RELEASE.md` and `docs/TEST-REPORT.md`.
+See `docs/linux5-RELEASE.md` and `docs/TEST-REPORT.md`.
 
 ## Retained from preview 3
 
