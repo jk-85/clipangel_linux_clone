@@ -1,6 +1,6 @@
 # ClipAngel Linux clone
 
-An **unofficial, source-informed Linux reimplementation targeting ClipAngel 2.23 (https://github.com/tormozit/ClipAngel)**.
+An **unofficial Linux reimplementation from ClipAngel 2.23 (https://github.com/tormozit/ClipAngel)**.
 
 <img width="100%" alt="screenshot" src="https://github.com/user-attachments/assets/ef6d018f-02dd-426e-8b3a-c4391cac7421" />
 <img width="100%" alt="screenshot-dark" src="https://github.com/user-attachments/assets/f9843797-4f1a-4f81-b87b-d15d07b9b534" />
