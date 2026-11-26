@@ -1,6 +1,6 @@
 # ClipAngel Linux clone
 
-An **unofficial Linux reimplementation from ClipAngel 2.23 (https://github.com/tormozit/ClipAngel)**.
+An **unofficial Linux reimplementation from ClipAngel 2.23 (https://github.com/tormozit/ClipAngel)**.<br><br>
 Tested mainly on Linux Mint MATE and Cinnamon.
 
 <img width="100%" alt="screenshot" src="https://github.com/user-attachments/assets/ef6d018f-02dd-426e-8b3a-c4391cac7421" />
